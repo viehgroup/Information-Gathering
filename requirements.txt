@@ -1,0 +1,3 @@
+Faker
+phonenumbers
+bs4
